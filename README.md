@@ -6,7 +6,7 @@ Early-career ML engineer with research depth and high-performance computing foun
 - LinkedIn: https://www.linkedin.com/in/lucatramacere
 - Email: luca.tramacere@gmail.com
 
-## Best Evidence
+## Featured Projects
 
 - [Blood Cell Classification - Top 10](https://github.com/trama00/ANN-blood-cells): transfer-learning CNN pipeline with EfficientNetB2 and KerasCV augmentations.
 - [Mars Terrain Segmentation - Top 15](https://github.com/trama00/ANN-mars-terrain): semantic segmentation with U-Net variants, attention modules, and mixed precision.
