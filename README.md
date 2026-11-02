@@ -1,6 +1,6 @@
 # Luca Tramacere
 
-Early-career ML engineer with research depth and high-performance computing foundations. I am interested in model-building roles: ML engineering, research engineering, training/inference systems, scientific ML, and hardware-aware experimentation.
+ML engineer at ING with research depth and high-performance computing foundations. I am interested in model-building roles: ML engineering, research engineering, training/inference systems, scientific ML, and hardware-aware experimentation.
 
 - Portfolio: https://trama00.github.io
 - LinkedIn: https://www.linkedin.com/in/lucatramacere
@@ -17,4 +17,4 @@ Early-career ML engineer with research depth and high-performance computing foun
 
 ## Current Focus
 
-At ING, I am building an NLP transaction-categorization system from scratch, covering embeddings, clustering, categorization logic, and production-oriented implementation. My strongest public evidence is in model-building, scientific computing, and GPU/HPC coursework.
+As an ML engineer at ING, I am building an NLP transaction-categorization system from scratch, covering embeddings, clustering, categorization logic, and production-oriented implementation. My strongest public evidence is in model-building, scientific computing, and GPU/HPC coursework.
